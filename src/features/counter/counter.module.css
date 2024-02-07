@@ -1,0 +1,66 @@
+.addCard *{
+    margin: 20px;
+}
+
+
+.cardsDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+
+.card{
+
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 15px;
+
+
+}
+
+
+
+.delBtn{
+ 
+    margin-left: 180px;
+
+}
+
+
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
